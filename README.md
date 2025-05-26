@@ -11,7 +11,7 @@ Customer segmentation
 Geographic sales insights
 Monthly and yearly performance trends
 
-Link to Dashboard: [https://public.tableau.com/shared/RW8RWMS3G?:display_count=n&:origin=viz_share_link]
+Link to Dashboard: [(https://public.tableau.com/app/profile/parthiban.s2849/viz/AmazonDashboard_17246717317450/Dashboard14)]
 
 2. Financial Analysis Dashboard
 Description: The Financial Analysis dashboard is designed to give a comprehensive view of key financial metrics. This dashboard covers aspects such as revenue, expenses, profitability, and financial ratios, helping businesses track their financial health.
